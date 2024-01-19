@@ -11,7 +11,7 @@ const Index = () => {
     useEffect(() => {
         const sections = document.querySelectorAll("section[id]");
 
-        function scrollActive() {
+        function scrollActive()  {
           const scrollY = window.pageYOffset;
         
           sections.forEach((current) => {
