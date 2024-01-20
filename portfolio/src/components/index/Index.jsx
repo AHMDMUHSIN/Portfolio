@@ -12,7 +12,7 @@ const Index = () => {
         const sections = document.querySelectorAll("section[id]");
 
         function scrollActive()  {
-          const scrollY = window.pageYOffset;
+          const scrollY = window.pageYOffset; 
         
           sections.forEach((current) => {
             const sectionHeight = current.offsetHeight,
