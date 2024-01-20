@@ -32,7 +32,7 @@ const Index = () => {
         }
         window.addEventListener("scroll", scrollActive);
 
-///////////////////////////
+/////////////////////////
 
 const sr = ScrollReveal({
     origin: "top",
