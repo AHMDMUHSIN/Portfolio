@@ -90,11 +90,7 @@ const sr = ScrollReveal({
                         </a>
                     </li>
 
-                    <li className="nav__item">
-                        <a href="#skills" className="nav__link">
-                            <i className='bx bx-book'></i>
-                        </a>
-                    </li>
+                 
 
                     <li className="nav__item">
                         <a href="#work" className="nav__link">
