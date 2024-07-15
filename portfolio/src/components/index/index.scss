@@ -391,10 +391,10 @@ body.light-theme {
   background-color: var(--first-color);
   color: #ffffff;
 }
-// .nav__link:hover{
-//   background-color: var(--first-color);
-//   color: #ffffff;
-// }
+.nav__link:hover{
+  background-color: var(--first-color);
+  color: #ffffff;
+}
 
 .home__social::after {
   content: "";
